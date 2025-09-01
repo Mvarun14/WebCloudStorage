@@ -1,7 +1,7 @@
-Web Cloud: Web-Based Cloud Storage for Secure Data Sharing
+Secure Cloud File Management
 
 Project Description
-Web Cloud is a secure, web-based cloud storage solution that enables users to encrypt and share files across platforms. Designed to address the limitations of traditional client-side encryption, it provides robust security, cross-platform compatibility, and seamless data sharing.
+This is a secure, web-based cloud storage solution that enables users to encrypt and share files across platforms. Designed to address the limitations of traditional client-side encryption, it provides robust security, cross-platform compatibility, and seamless data sharing.
 
 Features
 Secure Encryption: Files are encrypted on the client side before uploading to the cloud.
